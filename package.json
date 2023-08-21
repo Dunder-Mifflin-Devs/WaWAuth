@@ -1,0 +1,25 @@
+{
+  "name": "wawauth",
+  "version": "1.0.0",
+  "description": "This microservice provides centralized authentication and authorization functionality across all the microservices and ensures secure access can be maintained throughout the app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test -- --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunder-Mifflin-Devs/WaWAuth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dunder-Mifflin-Devs/WaWAuth/issues"
+  },
+  "homepage": "https://github.com/Dunder-Mifflin-Devs/WaWAuth#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
